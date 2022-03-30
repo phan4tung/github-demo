@@ -1,4 +1,4 @@
-# Starte Web Project
+# Starter Web Project
 
 ## Introduction
 
