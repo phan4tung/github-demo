@@ -4,6 +4,7 @@ This is a simple website project for showing how to use Git and Github together.
 Adding a line for rebasing example.
 Adding 2nd line for rebasing example.
 Adding 3rd line for stashing example.
+Adding 4th line for stashing example.
 
 ## Introduction
 
