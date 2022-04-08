@@ -21,5 +21,5 @@ This is a simple web project, deployment can be on any web server or even local 
 Please fork this repository then pull request for review.
 
 ## Copyright
-git learning
+git learning.  All rights reserved.
 2022
